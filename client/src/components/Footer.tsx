@@ -3,8 +3,8 @@ import {motion} from 'framer-motion';
 import {FaCodepen, FaGithub, FaLinkedin, FaTwitter} from 'react-icons/fa';
 
 const socialLinks = [
-    {icon: <FaGithub/>, href: 'https://github.com', label: 'GitHub'},
-    {icon: <FaLinkedin/>, href: 'https://linkedin.com', label: 'LinkedIn'},
+    {icon: <FaGithub/>, href: 'https://github.com/PegaLiteStudio', label: 'GitHub'},
+    {icon: <FaLinkedin/>, href: 'https://www.linkedin.com/in/sahilthegeek', label: 'LinkedIn'},
     {icon: <FaTwitter/>, href: 'https://twitter.com', label: 'Twitter'},
     {icon: <FaCodepen/>, href: 'https://codepen.io', label: 'CodePen'},
 ];

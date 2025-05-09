@@ -25,7 +25,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
             try {
                 await transporter.sendMail({
                     from: `"Portfolio Contact" <${process.env.SMTP_USER || "noreply@example.com"}>`,
-                    to: process.env.CONTACT_EMAIL || "sahil.hossain@example.com",
+                    to: process.env.CONTACT_EMAIL || "sahilthegeek999@gmail.com",
                     subject: `New Contact Form Submission: ${validatedData.subject}`,
                     text: `Name: ${validatedData.name}\nEmail: ${validatedData.email}\nSubject: ${validatedData.subject}\nMessage: ${validatedData.message}`,
                     html: `
