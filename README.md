@@ -43,8 +43,8 @@ https://github.com/PegaLiteStudio/StackFolio/blob/master/video/demo_video.mp4
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sahilpegas/stackfolio.git
-cd stackfolio
+git clone https://github.com/PegaLiteStudio/StackFolio.git
+cd StackFolio
 ````
 
 ### 2. Install dependencies
