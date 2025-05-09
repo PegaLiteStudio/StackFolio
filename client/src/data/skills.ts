@@ -18,7 +18,7 @@ export const skills: SkillCategory[] = [
         title: 'Backend',
         iconName: 'FaServer',
         iconBg: 'bg-green-100 dark:bg-green-900',
-        color: 'bg-secondary',
+        color: 'bg-green-500',
         items: [
             {name: 'Node.js', percentage: 90},
             {name: 'Express', percentage: 85},
