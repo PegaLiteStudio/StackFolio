@@ -1,6 +1,6 @@
 # 🚀 StackFolio
 
-**A modern, responsive portfolio website built with React, Vite, and Node.js — handcrafted with ❤️ by [Sahil Hossain](https://sahil.pegalitestudio.xyz/)**
+**A modern, responsive portfolio website built with React, Vite, and Node.js — handcrafted with ❤️ by [Sahil Hossain](https://sahil.pegalite.com/)**
 
 ## 🖼️ Preview
 ![StackFolio Banner](/images/img1.png) <!-- Replace with actual banner image -->
